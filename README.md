@@ -4,11 +4,13 @@ This study will give a prediction on the fare pricing of Uber in future transact
 # Data Cleaning and Transformation
 ## 1.Loading and Initial Inspection:
 
-The dataset loaded successfully. Preliminary inspection of the columns revealed variables with missing values. These were cleaned by dropping the rows containing them.
-Rename and Remove Columns:
+*The dataset loaded successfully. Preliminary inspection of the columns revealed variables with missing values. These were cleaned by dropping the rows containing them.
 
-You renamed the column Unnamed: 0 as Id and removed the column for duplicate keys.
-Convert to Date and Time:
+## 2.Rename and Remove Columns:
+
+* You renamed the column Unnamed: 0 as Id and removed the column for duplicate keys.
+  
+## Convert to Date and Time:
 
 The column pickup_datetime was changed to datetime format, which is essential when time-based analysis should be run.
 
