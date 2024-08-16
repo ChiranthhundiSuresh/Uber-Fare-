@@ -32,10 +32,10 @@ You have looked at fare amounts with respect to passenger counts and found large
 
 ## Monthly and Daily Ride Counts:
 
-### Monthly: 
+#### Monthly: 
 The number of rides remains very consistent, but there are fewer rides during summer months.
 
-### Daily: 
+#### Daily: 
 There is a higher number of rides during the weekdays with dips during the weekends. 
 
 ## Revenue Analysis:
