@@ -2,7 +2,7 @@
 This study will give a prediction on the fare pricing of Uber in future transactions. The company is the largest in the world and handles thousands, if not millions of customers, on a regular basis. The firm will still require effective data management to be sure of innovating and getting the right price.
 
 # Data Cleaning and Transformation
-Loading and Initial Inspection:
+## 1.Loading and Initial Inspection:
 
 The dataset loaded successfully. Preliminary inspection of the columns revealed variables with missing values. These were cleaned by dropping the rows containing them.
 Rename and Remove Columns:
